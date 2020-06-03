@@ -14,6 +14,7 @@ a {
 :root {
     --title-color: #322153;
     --primary-color: #34cb79;
+    --in-color: #f0f0f5;
 }
 
 * {
