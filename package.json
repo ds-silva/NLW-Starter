@@ -1,0 +1,20 @@
+{
+  "name": "NLW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ds-silva/NLW-Starter.git"
+  },
+  "keywords": [],
+  "author": "David Barbosa da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ds-silva/NLW-Starter/issues"
+  },
+  "homepage": "https://github.com/ds-silva/NLW-Starter#readme"
+}
