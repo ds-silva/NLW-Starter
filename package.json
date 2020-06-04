@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ds-silva/NLW-Starter/issues"
   },
-  "homepage": "https://github.com/ds-silva/NLW-Starter#readme"
+  "homepage": "https://github.com/ds-silva/NLW-Starter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
