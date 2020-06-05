@@ -1,6 +1,6 @@
 <h1>1° Next Level Week</h1>
 
-<img src="https://github.com/ds-silva/NLW-Starter/blob/master/public/assets/logo.svg" height="200" width="200">
+<img src="">
 
 <h2>ECOLETA</h2>
 
