@@ -1,5 +1,5 @@
 {
-  "name": "NLW",
+  "name": "nlw",
   "version": "1.0.0",
   "description": "",
   "main": "src/server.js",
@@ -19,6 +19,9 @@
   "homepage": "https://github.com/ds-silva/NLW-Starter#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "node": "^14.4.0",
+    "node-modules": "^1.0.1",
+    "node-pre-gyp": "^0.15.0",
     "nunjucks": "^3.2.1"
   },
   "devDependencies": {
